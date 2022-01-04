@@ -425,6 +425,10 @@
         "_custom-folder_config": {
             "fontCharacter": "\\e5fc",
             "fontColor": "#0033ca"
+        },
+        "_oct-mark_github": {
+            "fontCharacter": "\\f408",
+            "fontColor": "#0033ca"
         }
     },
     "folder": "_folder",
