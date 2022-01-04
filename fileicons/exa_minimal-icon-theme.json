@@ -423,7 +423,8 @@
             "fontColor": "#0033ca"
         },
         "_custom-folder_config": {
-            ""
+            "fontCharacter": "\\e5fc",
+            "fontColor": "#0033ca"
         }
     },
     "folder": "_folder",
