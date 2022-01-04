@@ -1,0 +1,26 @@
+{
+    "name": "exa-minimal-fileicons",
+    "displayName": "EXA Minimal Fileicons",
+    "description": "Minimal Fileicons enlightened by EXA",
+    "publisher": "ubtrnvme",
+    "author": {
+        "email": "mooniron.k@gmail.com",
+        "name": "Aitemir Kuandyk"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "exa-minimal",
+                "label": "Exa Minimal",
+                "path": "./fileicons/exa_minimal-icon-theme.json"
+            }
+        ]
+    }
+}

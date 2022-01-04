@@ -1,0 +1,802 @@
+{
+    "fonts": [
+        {
+            "id": "caskaydia-cove",
+            "src": [
+                {
+                    "path": "../fonts/Caskaydia Cove Regular Nerd Font Complete Mono Windows Compatible.otf",
+                    "format": "opentype"
+                },
+                {
+                    "path": "../fonts/Caskaydia Cove Regular Nerd Font Complete Mono.otf",
+                    "format": "opentype"
+                },
+                {
+                    "path": "../fonts/Caskaydia Cove Regular Nerd Font Complete Windows Compatible.otf",
+                    "format": "opentype"
+                },
+                {
+                    "path": "../fonts/Caskaydia Cove Regular Nerd Font Complete.otf",
+                    "format": "opentype"
+                }
+            ],
+            "size": "120%",
+            "style": "normal",
+            "weight": "normal"
+        }
+    ],
+    "iconDefinitions": {
+        "_file": {
+            "fontCharacter": "\\f15b",
+            "fontColor": "#cccccc"
+        },
+        "_folder": {
+            "fontCharacter": "\\f115",
+            "fontColor": "#0033ca"
+        },
+        "_dev-intellij-folder": {
+            "fontCharacter": "\\e7b5",
+            "fontColor": "#0033ca"
+        },
+        "_dev-visualstudio-folder": {
+            "fontCharacter": "\\e70c",
+            "fontColor": "#0033ca"
+        },
+        "_fa-git-folder": {
+            "fontCharacter": "\\f1d3",
+            "fontColor": "#0033ca"
+        },
+        "_dev-illustrator": {
+            "fontCharacter": "\\e7b4",
+            "fontColor": "#cccccc"
+        },
+        "_dev-android": {
+            "fontCharacter": "\\e70e",
+            "fontColor": "#cccccc"
+        },
+        "_fa-apple": {
+            "fontCharacter": "\\f179",
+            "fontColor": "#cccccc"
+        },
+        "_fa-video_camera": {
+            "fontCharacter": "\\f03d",
+            "fontColor": "#cccccc"
+        },
+        "_fa-file_picture_o": {
+            "fontCharacter": "\\f1c5",
+            "fontColor": "#cccccc"
+        },
+        "_seti-less": {
+            "fontCharacter": "\\e60b",
+            "fontColor": "#cccccc"
+        },
+        "_oct-terminal": {
+            "fontCharacter": "\\f489",
+            "fontColor": "#cccccc"
+        },
+        "_fa-windows": {
+            "fontCharacter": "\\f17a",
+            "fontColor": "#cccccc"
+        },
+        "_oct-file_zip": {
+            "fontCharacter": "\\f410",
+            "fontColor": "#cccccc"
+        },
+        "_custom-c": {
+            "fontCharacter": "\\e61e",
+            "fontColor": "#cccccc"
+        },
+        "_custom-cpp": {
+            "fontCharacter": "\\e61d",
+            "fontColor": "#cccccc"
+        },
+        "_dev-windows": {
+            "fontCharacter": "\\e70f",
+            "fontColor": "#cccccc"
+        },
+        "_seti-config": {
+            "fontCharacter": "\\e615",
+            "fontColor": "#cccccc"
+        },
+        "_fae-java": {
+            "fontCharacter": "\\e256",
+            "fontColor": "#cccccc"
+        },
+        "_dev-clojure": {
+            "fontCharacter": "\\e768",
+            "fontColor": "#cccccc"
+        },
+        "_dev-clojure_alt": {
+            "fontCharacter": "\\e76a",
+            "fontColor": "#cccccc"
+        },
+        "_fa-text_height": {
+            "fontCharacter": "\\f034",
+            "fontColor": "#cccccc"
+        },
+        "_fa-coffee": {
+            "fontCharacter": "\\f0f4",
+            "fontColor": "#cccccc"
+        },
+        "_mdi-language_csharp": {
+            "fontCharacter": "\\f81a",
+            "fontColor": "#cccccc"
+        },
+        "_fa-at": {
+            "fontCharacter": "\\f1fa",
+            "fontColor": "#cccccc"
+        },
+        "_dev-css3": {
+            "fontCharacter": "\\e749",
+            "fontColor": "#cccccc"
+        },
+        "_fa-file_excel_o": {
+            "fontCharacter": "\\f1c3",
+            "fontColor": "#cccccc"
+        },
+        "_dev-dlang": {
+            "fontCharacter": "\\e7af",
+            "fontColor": "#cccccc"
+        },
+        "_dev-dart": {
+            "fontCharacter": "\\e798",
+            "fontColor": "#cccccc"
+        },
+        "_fa-database": {
+            "fontCharacter": "\\f1c0",
+            "fontColor": "#cccccc"
+        },
+        "_dev-debian": {
+            "fontCharacter": "\\e77d",
+            "fontColor": "#cccccc"
+        },
+        "_oct-diff": {
+            "fontCharacter": "\\f440",
+            "fontColor": "#cccccc"
+        },
+        "_fa-book": {
+            "fontCharacter": "\\f02d",
+            "fontColor": "#cccccc"
+        },
+        "_fa-file_word_o": {
+            "fontCharacter": "\\f1c2",
+            "fontColor": "#cccccc"
+        },
+        "_fae-book_open_o": {
+            "fontCharacter": "\\e28b",
+            "fontColor": "#cccccc"
+        },
+        "_seti-ejs": {
+            "fontCharacter": "\\e618",
+            "fontColor": "#cccccc"
+        },
+        "_custom-elm": {
+            "fontCharacter": "\\e62c",
+            "fontColor": "#cccccc"
+        },
+        "_oct-settings": {
+            "fontCharacter": "\\f462",
+            "fontColor": "#cccccc"
+        },
+        "_fa-font": {
+            "fontCharacter": "\\f031",
+            "fontColor": "#cccccc"
+        },
+        "_fae-book_open": {
+            "fontCharacter": "\\e28a",
+            "fontColor": "#cccccc"
+        },
+        "_dev-ruby_on_rails": {
+            "fontCharacter": "\\e73b",
+            "fontColor": "#cccccc"
+        },
+        "_dev-erlang": {
+            "fontCharacter": "\\e7b1",
+            "fontColor": "#cccccc"
+        },
+        "_custom-elixir": {
+            "fontCharacter": "\\e62d",
+            "fontColor": "#cccccc"
+        },
+        "_fa-music": {
+            "fontCharacter": "\\f001",
+            "fontColor": "#cccccc"
+        },
+        "_dev-fsharp": {
+            "fontCharacter": "\\e7a7",
+            "fontColor": "#cccccc"
+        },
+        "_fae-ruby_o": {
+            "fontCharacter": "\\e21e",
+            "fontColor": "#cccccc"
+        },
+        "_fa-wpforms": {
+            "fontCharacter": "\\f298",
+            "fontColor": "#cccccc"
+        },
+        "_fa-git-file": {
+            "fontCharacter": "\\f1d3",
+            "fontColor": "#cccccc"
+        },
+        "_custom-go": {
+            "fontCharacter": "\\e626",
+            "fontColor": "#cccccc"
+        },
+        "_dev-groovy": {
+            "fontCharacter": "\\e775",
+            "fontColor": "#cccccc"
+        },
+        "_fa-file_powerpoint_o": {
+            "fontCharacter": "\\f1c4",
+            "fontColor": "#cccccc"
+        },
+        "_fa-h_square": {
+            "fontCharacter": "\\f0fd",
+            "fontColor": "#cccccc"
+        },
+        "_seti-mustache": {
+            "fontCharacter": "\\e60f",
+            "fontColor": "#cccccc"
+        },
+        "_dev-haskell": {
+            "fontCharacter": "\\e777",
+            "fontColor": "#cccccc"
+        },
+        "_fa-html5": {
+            "fontCharacter": "\\f13b",
+            "fontColor": "#cccccc"
+        },
+        "_dev-intellij-file": {
+            "fontCharacter": "\\e7b5",
+            "fontColor": "#cccccc"
+        },
+        "_seti-python": {
+            "fontCharacter": "\\e606",
+            "fontColor": "#cccccc"
+        },
+        "_fae-disco": {
+            "fontCharacter": "\\e271",
+            "fontColor": "#cccccc"
+        },
+        "_fae-soup": {
+            "fontCharacter": "\\e204",
+            "fontColor": "#cccccc"
+        },
+        "_seti-julia": {
+            "fontCharacter": "\\e624",
+            "fontColor": "#cccccc"
+        },
+        "_dev-javascript": {
+            "fontCharacter": "\\e74e",
+            "fontColor": "#cccccc"
+        },
+        "_dev-react": {
+            "fontCharacter": "\\e7ba",
+            "fontColor": "#cccccc"
+        },
+        "_dev-less": {
+            "fontCharacter": "\\e758",
+            "fontColor": "#cccccc"
+        },
+        "_mdi-file_document": {
+            "fontCharacter": "\\f718",
+            "fontColor": "#cccccc"
+        },
+        "_fa-lock": {
+            "fontCharacter": "\\f023",
+            "fontColor": "#cccccc"
+        },
+        "_fa-stack_exchange": {
+            "fontCharacter": "\\f18d",
+            "fontColor": "#cccccc"
+        },
+        "_seti-lua": {
+            "fontCharacter": "\\e620",
+            "fontColor": "#cccccc"
+        },
+        "_oct-markdown": {
+            "fontCharacter": "\\f48a",
+            "fontColor": "#cccccc"
+        },
+        "_linux-nixos": {
+            "fontCharacter": "\\f313",
+            "fontColor": "#cccccc"
+        },
+        "_mdi-nodejs": {
+            "fontCharacter": "\\f898",
+            "fontColor": "#cccccc"
+        },
+        "_dev-npm": {
+            "fontCharacter": "\\e71e",
+            "fontColor": "#cccccc"
+        },
+        "_fa-file_pdf_o": {
+            "fontCharacter": "\\f1c1",
+            "fontColor": "#cccccc"
+        },
+        "_dev-php": {
+            "fontCharacter": "\\e73d",
+            "fontColor": "#cccccc"
+        },
+        "_dev-perl": {
+            "fontCharacter": "\\e769",
+            "fontColor": "#cccccc"
+        },
+        "_dev-photoshop": {
+            "fontCharacter": "\\e7b8",
+            "fontColor": "#cccccc"
+        },
+        "_fa-registered": {
+            "fontCharacter": "\\f25d",
+            "fontColor": "#cccccc"
+        },
+        "_dev-redis": {
+            "fontCharacter": "\\e76d",
+            "fontColor": "#cccccc"
+        },
+        "_dev-rust": {
+            "fontCharacter": "\\e7a8",
+            "fontColor": "#cccccc"
+        },
+        "_dev-redhat": {
+            "fontCharacter": "\\e7bb",
+            "fontColor": "#cccccc"
+        },
+        "_fa-rss": {
+            "fontCharacter": "\\f09e",
+            "fontColor": "#cccccc"
+        },
+        "_seti-sass": {
+            "fontCharacter": "\\e603",
+            "fontColor": "#cccccc"
+        },
+        "_dev-scala": {
+            "fontCharacter": "\\e737",
+            "fontColor": "#cccccc"
+        },
+        "_dev-visualstudio-file": {
+            "fontCharacter": "\\e70c",
+            "fontColor": "#cccccc"
+        },
+        "_fa-linux": {
+            "fontCharacter": "\\f17c",
+            "fontColor": "#cccccc"
+        },
+        "_dev-sqllite": {
+            "fontCharacter": "\\e7c4",
+            "fontColor": "#cccccc"
+        },
+        "_seti-stylus": {
+            "fontCharacter": "\\e600",
+            "fontColor": "#cccccc"
+        },
+        "_dev-swift": {
+            "fontCharacter": "\\e755",
+            "fontColor": "#cccccc"
+        },
+        "_seti-typescript": {
+            "fontCharacter": "\\e628",
+            "fontColor": "#cccccc"
+        },
+        "_seti-twig": {
+            "fontCharacter": "\\e61c",
+            "fontColor": "#cccccc"
+        },
+        "_fa-file_text": {
+            "fontCharacter": "\\f15c",
+            "fontColor": "#cccccc"
+        },
+        "_custom-vim": {
+            "fontCharacter": "\\e62b",
+            "fontColor": "#cccccc"
+        },
+        "_mdi-vuejs": {
+            "fontCharacter": "\\fd42",
+            "fontColor": "#cccccc"
+        },
+        "_mdi-xml": {
+            "fontCharacter": "\\fabf",
+            "fontColor": "#cccccc"
+        },
+        "_oct-file_symlink_file": {
+            "fontCharacter": "\\f481",
+            "fontColor": "#cccccc"
+        },
+        "_linux-docker": {
+            "fontCharacter": "\\f308",
+            "fontColor": "#cccccc"
+        },
+        "_linux-docker-gold": {
+            "fontCharacter": "\\f308",
+            "fontColor": "#f5bd07"
+        },
+        "_mdi-notebook": {
+            "fontCharacter": "\\fd2c",
+            "fontColor": "#cccccc"
+        },
+        "_dev-nodejs_small-file": {
+            "fontCharacter": "\\e718",
+            "fontColor": "#cccccc"
+        },
+        "_dev-nodejs_small-folder": {
+            "fontCharacter": "\\e718",
+            "fontColor": "#0033ca"
+        },
+        "_custom-folder_config": {
+            ""
+        }
+    },
+    "folder": "_folder",
+    "file": "_file",
+    "rootFolder": "_root_folder",
+    "fileExtensions": {
+        // icons by file extension
+        "ai": "_dev-illustrator",
+        "android": "_dev-android",
+        "apk": "_dev-android",
+        "gradle": "_dev-android",
+        "apple": "_fa-apple",
+        "ds_store": "_fa-apple",
+        "DS_store": "_fa-apple",
+        "localized": "_fa-apple",
+        "avi": "_fa-video_camera",
+        "flv": "_fa-video_camera",
+        "mkv": "_fa-video_camera",
+        "mov": "_fa-video_camera",
+        "mp4": "_fa-video_camera",
+        "ogv": "_fa-video_camera",
+        "video": "_fa-video_camera",
+        "webm": "_fa-video_camera",
+        "avif": "_fa-file_picture_o",
+        "bmp": "_fa-file_picture_o",
+        "gif": "_fa-file_picture_o",
+        "ico": "_fa-file_picture_o",
+        "image": "_fa-file_picture_o",
+        "jfi": "_fa-file_picture_o",
+        "jfif": "_fa-file_picture_o",
+        "jif": "_fa-file_picture_o",
+        "jpe": "_fa-file_picture_o",
+        "jpeg": "_fa-file_picture_o",
+        "jpg": "_fa-file_picture_o",
+        "jxl": "_fa-file_picture_o",
+        "png": "_fa-file_picture_o",
+        "pxm": "_fa-file_picture_o",
+        "svg": "_fa-file_picture_o",
+        "tiff": "_fa-file_picture_o",
+        "webp": "_fa-file_picture_o",
+        "avro": "_seti-less",
+        "json": "_seti-less",
+        "properties": "_seti-less",
+        "awk": "_oct-terminal",
+        "bash": "_oct-terminal",
+        "bash_history": "_oct-terminal",
+        "bash_profile": "_oct-terminal",
+        "bashrc": "_oct-terminal",
+        "csh": "_oct-terminal",
+        "fish": "_oct-terminal",
+        "ksh": "_oct-terminal",
+        "mk": "_oct-terminal",
+        "ps1": "_oct-terminal",
+        "sh": "_oct-terminal",
+        "shell": "_oct-terminal",
+        "zsh": "_oct-terminal",
+        "zsh-theme": "_oct-terminal",
+        "zshrc": "_oct-terminal",
+        "bat": "_fa-windows",
+        "exe": "_fa-windows",
+        "ini": "_fa-windows",
+        "windows": "_fa-windows",
+        "bz": "_oct-file_zip",
+        "bz2": "_oct-file_zip",
+        "gz": "_oct-file_zip",
+        "lz": "_oct-file_zip",
+        "lz4": "_oct-file_zip",
+        "lzh": "_oct-file_zip",
+        "lzma": "_oct-file_zip",
+        "lzo": "_oct-file_zip",
+        "rar": "_oct-file_zip",
+        "tar": "_oct-file_zip",
+        "taz": "_oct-file_zip",
+        "tbz": "_oct-file_zip",
+        "tbz2": "_oct-file_zip",
+        "tgz": "_oct-file_zip",
+        "tlz": "_oct-file_zip",
+        "txz": "_oct-file_zip",
+        "tz": "_oct-file_zip",
+        "tzo": "_oct-file_zip",
+        "xz": "_oct-file_zip",
+        "zip": "_oct-file_zip",
+        "c": "_custom-c",
+        "m": "_custom-c",
+        "c++": "_custom-cpp",
+        "cc": "_custom-cpp",
+        "cp": "_custom-cpp",
+        "cpp": "_custom-cpp",
+        "cxx": "_custom-cpp",
+        "mm": "_custom-cpp",
+        "cab": "_dev-windows",
+        "cmd": "_dev-windows",
+        "dll": "_dev-windows",
+        "msi": "_dev-windows",
+        "cfg": "_seti-config",
+        "conf": "_seti-config",
+        "editorconfig": "_seti-config",
+        "toml": "_seti-config",
+        "class": "_fae-java",
+        "jad": "_fae-java",
+        "war": "_fae-java",
+        "clj": "_dev-clojure",
+        "cljs": "_dev-clojure_alt",
+        "cls": "_fa-text_height",
+        "latex": "_fa-text_height",
+        "sty": "_fa-text_height",
+        "tex": "_fa-text_height",
+        "coffee": "_fa-coffee",
+        "cs": "_mdi-language_csharp",
+        "csproj": "_mdi-language_csharp",
+        "csx": "_mdi-language_csharp",
+        "cshtml": "_fa-at",
+        "razor": "_fa-at",
+        "css": "_dev-css3",
+        "scss": "_dev-css3",
+        "csv": "_fa-file_excel_o",
+        "gsheet": "_fa-file_excel_o",
+        "ods": "_fa-file_excel_o",
+        "tsv": "_fa-file_excel_o",
+        "xls": "_fa-file_excel_o",
+        "xlsx": "_fa-file_excel_o",
+        "d": "_dev-dlang",
+        "dart": "_dev-dart",
+        "db": "_fa-database",
+        "dump": "_fa-database",
+        "sql": "_fa-database",
+        "deb": "_dev-debian",
+        "diff": "_oct-diff",
+        "patch": "_oct-diff",
+        "djvu": "_fa-book",
+        "doc": "_fa-file_word_o",
+        "docx": "_fa-file_word_o",
+        "gdoc": "_fa-file_word_o",
+        "odt": "_fa-file_word_o",
+        "ebook": "_fae-book_open_o",
+        "mobi": "_fae-book_open_o",
+        "ejs": "_seti-ejs",
+        "elm": "_custom-elm",
+        "env": "_oct-settings",
+        "eot": "_fa-font",
+        "font": "_fa-font",
+        "otf": "_fa-font",
+        "ttf": "_fa-font",
+        "woff": "_fa-font",
+        "woff2": "_fa-font",
+        "epub": "_fae-book_open",
+        "erb": "_dev-ruby_on_rails",
+        "rubydoc": "_dev-ruby_on_rails",
+        "slim": "_dev-ruby_on_rails",
+        "erl": "_dev-erlang",
+        "ex": "_custom-elixir",
+        "exs": "_custom-elixir",
+        "flac": "_fa-music",
+        "m4a": "_fa-music",
+        "mp3": "_fa-music",
+        "ogg": "_fa-music",
+        "wav": "_fa-music",
+        "fs": "_dev-fsharp",
+        "fsi": "_dev-fsharp",
+        "fsx": "_dev-fsharp",
+        "gem": "_fae-ruby_o",
+        "gemfile": "_fae-ruby_o",
+        "gemspec": "_fae-ruby_o",
+        "guardfile": "_fae-ruby_o",
+        "procfile": "_fae-ruby_o",
+        "rakefile": "_fae-ruby_o",
+        "rb": "_fae-ruby_o",
+        "rspec": "_fae-ruby_o",
+        "rspec_parallel": "_fae-ruby_o",
+        "rspec_status": "_fae-ruby_o",
+        "ru": "_fae-ruby_o",
+        "gform": "_fa-wpforms",
+        "git": "_fa-git-file",
+        "gitattributes": "_fa-git-file",
+        "gitignore": "_fa-git-file",
+        "gitmodules": "_fa-git-file",
+        "go": "_custom-go",
+        "groovy": "_dev-groovy",
+        "gslides": "_fa-file_powerpoint_o",
+        "odp": "_fa-file_powerpoint_o",
+        "ppt": "_fa-file_powerpoint_o",
+        "pptx": "_fa-file_powerpoint_o",
+        "h": "_fa-h_square",
+        "hpp": "_fa-h_square",
+        "hxx": "_fa-h_square",
+        "hbs": "_seti-mustache",
+        "mustache": "_seti-mustache",
+        "hs": "_dev-haskell",
+        "lhs": "_dev-haskell",
+        "htm": "_fa-html5",
+        "html": "_fa-html5",
+        "xhtml": "_fa-html5",
+        "iml": "_dev-intellij-file",
+        "ipynb": "_seti-python",
+        "py": "_seti-python",
+        "pyc": "_seti-python",
+        "iso": "_fae-disco",
+        "jar": "_fae-soup",
+        "java": "_fae-soup",
+        "jl": "_seti-julia",
+        "js": "_dev-javascript",
+        "mjs": "_dev-javascript",
+        "jsx": "_dev-react",
+        "tsx": "_dev-react",
+        "less": "_dev-less",
+        "license": "_mdi-file_document",
+        "rtf": "_mdi-file_document",
+        "lock": "_fa-lock",
+        "log": "_fa-stack_exchange",
+        "lua": "_seti-lua",
+        "markdown": "_oct-markdown",
+        "md": "_oct-markdown",
+        "mkd": "_oct-markdown",
+        "rdoc": "_oct-markdown",
+        "readme": "_oct-markdown",
+        "rmd": "_oct-markdown",
+        "nix": "_linux-nixos",
+        "node": "_mdi-nodejs",
+        "npmignore": "_dev-npm",
+        "pdf": "_fa-file_pdf_o",
+        "php": "_dev-php",
+        "pl": "_dev-perl",
+        "psd": "_dev-photoshop",
+        "r": "_fa-registered",
+        "rdata": "_fa-registered",
+        "rds": "_fa-registered",
+        "rdb": "_dev-redis",
+        "rlib": "_dev-rust",
+        "rs": "_dev-rust",
+        "rpm": "_dev-redhat",
+        "rss": "_fa-rss",
+        "sass": "_seti-sass",
+        "scala": "_dev-scala",
+        "sln": "_dev-visualstudio-file",
+        "so": "_fa-linux",
+        "sqlite3": "_dev-sqllite",
+        "styl": "_seti-stylus",
+        "stylus": "_seti-stylus",
+        "swift": "_dev-swift",
+        "ts": "_seti-typescript",
+        "twig": "_seti-twig",
+        "txt": "_fa-file_text",
+        "vim": "_custom-vim",
+        "vue": "_mdi-vuejs",
+        "xml": "_mdi-xml",
+        "xul": "_mdi-xml",
+        "yaml": "_oct-file_symlink_file",
+        "yml": "_oct-file_symlink_file",
+    },
+    "fileNames": {
+        // icons by file name
+        ".Trash": "_fa-trash",
+        ".bashprofile": "_seti-config",
+        ".bashrc": "_oct-terminal",
+        ".zshrc": "_oct-terminal",
+        "Makefile": "_oct-terminal",
+        ".gitattributes": "_fa-git-file",
+        ".gitconfig": "_fa-git-file",
+        ".gitignore": "_fa-git-file",
+        ".gitmodules": "_fa-git-file",
+        "gitignore_global": "_fa-git-file",
+        ".rvm": "_fae-ruby_o",
+        ".vimrc": "_custom-vim",
+        "Cargo.lock": "_dev-rust",
+        "docker-compose.yml": "_linux-docker",
+        "Dockerfile": "_linux-docker",
+        "ds_store": "_fa-apple",
+        "localized": "_fa-apple",
+        "gradle": "_dev-android",
+        "gruntfile.coffee": "_seti-grunt",
+        "gruntfile.js": "_seti-grunt",
+        "gruntfile.ls": "_seti-grunt",
+        "gulpfile.coffee": "_seti-gulp",
+        "gulpfile.js": "_seti-gulp",
+        "gulpfile.ls": "_seti-gulp",
+        "hidden": "_fa-lock",
+        "yarn.lock": "_dev-nodejs_small-file",
+        "npmignore": "_dev-npm",
+        "rubydoc": "_dev-ruby_on_rails",
+    },
+    "folderNames": {
+        // icons by folder name
+        ".vscode": "_dev-visualstudio-folder",
+        ".idea": "_dev-intellij-folder",
+        ".github": "_oct-mark_github",
+        ".atom": "_dev-atom",
+        ".git": "_fa-git-folder",
+        "bin": "_custom-folder_config",
+        "config": "_custom-folder_config",
+        "include": "_custom-folder_config",
+        "lib": "_fa-code",
+        "node_modules": "_dev-nodejs_small-folder",
+    },
+    "languageIds": {
+        "bat": "_fa-windows",
+        "clojure": "_dev-clojure",
+        "coffeescript": "_coffee",
+        "jsonc": "_seti-less",
+        "c": "_custom-c",
+        "cpp": "_custom-cpp",
+        "cuda-cpp": "_custom-cpp",
+        "csharp": "_mdi-language_csharp",
+        "css": "_dev-css3",
+        "dart": "_dev-dart",
+        "dockerfile": "_linux-docker-gold",
+        "ignore": "_fa-git-file",
+        "fsharp": "_dev-fsharp",
+        "go": "_custom-go",
+        "groovy": "_dev-groovy",
+        "handlebars": "_seti-mustache",
+        "html": "_fa-html5",
+        "properties": "_fae-java",
+        "jupyter": "_mdi-notebook",
+        "java": "_fae-java",
+        "javascriptreact": "_dev-react",
+        "javascript": "_dev-javascript",
+        "json": "_seti-less",
+        "julia": "_seti-julia",
+        "less": "_dev-less",
+        "lua": "_seti-lua",
+        "makefile": "_oct-terminal",
+        "markdown": "_oct-markdown",
+        "objective-c": "_custom-c",
+        "objective-cpp": "_custom-cpp",
+        "perl": "_dev-perl",
+        "php": "_dev-php",
+        "powershell": "_oct-terminal",
+        "jade": "_file",
+        "python": "_seti-python",
+        "r": "_fa-registered",
+        "razor": "_fa-html5",
+        "ruby": "_fae-ruby_o",
+        "rust": "_dev-rust",
+        "scss": "_seti-sass",
+        "search-result": "_file",
+        "shellscript": "_oct-terminal",
+        "sql": "_dev-sqllite",
+        "swift": "_dev-swift",
+        "typescript": "_seti-typescript",
+        "typescriptreact": "_seti-typescript",
+        "xml": "_mdi-xml",
+        "dockercompose": "_linux-docker",
+        "yaml": "_oct-file_symlink_file",
+        "argdown": "_oct-markdown",
+        "bicep": "_file",
+        "elixir": "_custom-elixir",
+        "elm": "_custom-elm",
+        "erb": "_dev-ruby_on_rails",
+        "github-issues": "_oct-mark_github",
+        "gradle": "_dev-android",
+        "godot": "_file",
+        "haml": "_fa-html5",
+        "haskell": "_dev-haskell",
+        "haxe": "_file",
+        "jinja": "_fa-html5",
+        "kotlin": "_fae-java",
+        "mustache": "_seti-mustache",
+        "nunjucks": "_fa-html5",
+        "ocaml": "_file",
+        "rescript": "_dev-javascript",
+        "sass": "_seti-sass",
+        "stylus": "_seti-stylus",
+        "terraform": "_file",
+        "todo": "_file",
+        "vala": "_file",
+        "vue": "_mdi-vuejs",
+        "postcss": "_dev-css3",
+        "django-html": "_fa-html5",
+    },
+    "light": {
+        // overrides for light
+    },
+    "highContrast": {
+        // overrides for high contrast
+    }
+}
