@@ -19,6 +19,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Added initial support for the most of the often used extensions
 
 [Unreleased]: https://github.com/UBtrNvME/exa-minimal-fileicons/compare/v0.1.1...HEAD
-[0.1.1]: https://github.com/UBtrNvME/exa-minimal-fileicons/compare/v0.1.0...v0.1.0
-[0.1.0]: https://github.com/UBtrNvME/exa-minimal-fileicons/compare/v0.1.0...v0.0.1
-[0.0.1]: https://github.com/UBtrNvME/exa-minimal-fileicons/releases/tag/v0.1.1
+[0.1.1]: https://github.com/UBtrNvME/exa-minimal-fileicons/compare/v0.1.0...v0.1.1
+[0.1.0]: https://github.com/UBtrNvME/exa-minimal-fileicons/compare/v0.0.1...v0.1.0
+[0.0.1]: https://github.com/UBtrNvME/exa-minimal-fileicons/releases/tag/v0.0.1
