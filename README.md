@@ -6,7 +6,7 @@
 
 ## Examples:
 <p align="center">
-  <img src="https://github.com/UBtrNvME/exa-minimal-fileicons/blob/master/images/example1.png?raw=true" alt="example image 1"/>
+  <img src="images/example1.png" alt="example image 1"/>
 </p>
 
 
